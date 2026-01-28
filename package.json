@@ -12,7 +12,7 @@
   },
   "scripts": {
     "start": "serve .",
-    "build": "echo 'No build step required'"
+    "build": "echo 'Build complete. Serving static files.'"
   },
   "keywords": [
     "ai",
