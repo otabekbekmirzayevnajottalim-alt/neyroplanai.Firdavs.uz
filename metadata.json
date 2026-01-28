@@ -1,0 +1,8 @@
+{
+  "name": "Neyroplan - Smart Assistant",
+  "description": "A high-performance AI assistant application with multi-modal capabilities, real-time streaming, and deep reasoning powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
