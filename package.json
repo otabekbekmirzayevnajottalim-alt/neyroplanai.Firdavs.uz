@@ -1,4 +1,3 @@
-
 {
   "name": "neyroplan-ai",
   "version": "1.0.0",
@@ -12,7 +11,7 @@
   },
   "scripts": {
     "start": "serve .",
-    "build": "echo 'Build complete. Serving static files.'"
+    "build": "echo 'Static build completed successfully'"
   },
   "keywords": [
     "ai",
